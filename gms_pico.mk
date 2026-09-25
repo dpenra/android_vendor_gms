@@ -53,12 +53,14 @@ PRODUCT_PACKAGES += \
     ConfigUpdater \
     CustomizationBundlePrebuiltFullVersion \
     DeviceIntelligenceNetworkPrebuiltAstrea \
+    FilesPrebuilt \    
     GoogleDialer \
     GoogleRestorePrebuilt-v1068888 \
     KidsSupervisionStub \
     OdadPrebuilt \
     PartnerSetupPrebuilt \
     Phonesky \
+    PrebuiltBugle \
     PrebuiltDeskClockGoogle_76060331 \
     PrebuiltPixelCoreServices \
     SettingsIntelligenceGooglePrebuilt \
